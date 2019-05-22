@@ -12,7 +12,7 @@ public class PingResource {
 
     @GET
     public String ping() {
-        return "Enjoy Java EE 8, my first JEE application on OpenShift and also webhooks  not working #############!";
+        return "Enjoy Java EE 8, my first JEE application on OpenShift and also webhooks  not working ##############!";
     }
 
 }
