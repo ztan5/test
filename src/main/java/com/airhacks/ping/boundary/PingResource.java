@@ -12,7 +12,7 @@ public class PingResource {
 
     @GET
     public String ping() {
-        return "Enjoy Java EE 8, my first JEE application on OpenShift@@@@@@@@@@@2!";
+        return "                Enjoy Java EE 8, my first JEE application on OpenShift@@@@@@@@@@@2!";
     }
 
 }
